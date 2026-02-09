@@ -1,0 +1,9 @@
+/dist/
+/pcpt
+/pcpt.exe
+*.test
+*.out
+coverage.txt
+.DS_Store
+.env
+.env.*
